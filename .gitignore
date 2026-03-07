@@ -5,3 +5,4 @@ output/
 *.dSYM/
 *.o
 *.out
+numberGuess
